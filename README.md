@@ -22,7 +22,7 @@ I'm Saran Dharshan, a passionate undergraduate student at Amrita Vishwa Vidyapee
 
 📫 **Let's Connect:**  
 - LinkedIn: [Sarandharshan](https://www.linkedin.com/in/sarandharshan/)
-- Twitter: [@bettercallsaran]([https://twitter.com/yourusername](https://twitter.com/bettercallsaran))
+- Twitter: [@bettercallsaran](https://twitter.com/bettercallsaran)
 - Email:sarandharshanpushparaj@gmail.com 📧
 
 Feel free to reach out if you're into AI/ML discussions, collaborations, or just a friendly chat! Let's push the boundaries of intelligence together. 🌟🤝
