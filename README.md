@@ -41,5 +41,4 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
 [![](https://visitcount.itsvg.in/api?id=SaranDharshanSP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 
