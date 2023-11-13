@@ -37,6 +37,9 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
 ![](https://github-readme-stats.vercel.app/api?username=SaranDharshanSP&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaranDharshanSP&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaranDharshanSP&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SaranDharshanSP&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+
