@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Saran Dharshan, a passionate undergraduate student at Amrita Vishwa Vidyapeetham, diving deep into the realms of Artificial Intelligence and Machine Learning. 🚀
+I'm Saran Dharshan, a passionate undergraduate student at Amrita Vishwa Vidyapeetham, diving deep into the realms of Artificial Intelligence and Machine Learning. ⚡️ 🚀
 
 
 📫 **Let's Connect:**  
