@@ -9,7 +9,6 @@ I'm Saran Dharshan, a passionate undergraduate student at Amrita Vishwa Vidyapee
 
 Feel free to reach out if you're into AI/ML discussions, collaborations, or just a friendly chat! Let's push the boundaries of intelligence together. 🌟🤝
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saran.dharsan.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bettercallsaran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarandharshan)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bettercallsaran)
 
