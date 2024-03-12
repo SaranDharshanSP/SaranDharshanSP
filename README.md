@@ -2,7 +2,6 @@
 
 I'm Saran Dharshan, a passionate undergraduate student at Amrita Vishwa Vidyapeetham, diving deep into the realms of Artificial Intelligence and Machine Learning. ⚡️ 🚀
 
-
 📫 **Let's Connect:**  
 - LinkedIn: [Sarandharshan](https://www.linkedin.com/in/sarandharshan/)
 - Twitter: [@bettercallsaran](https://twitter.com/bettercallsaran)
